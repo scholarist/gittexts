@@ -5,4 +5,3 @@ writings. Some of them will show up at [scholarist.net](http://www.scholarist.ne
 
 Everything here is published  under a Creative Commons CC BY-SA license.
 
-[
