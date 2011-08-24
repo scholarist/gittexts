@@ -1,6 +1,6 @@
 August 22 2011
 
-Read a notice from the Journal for 6.2.1855. Thoreau had harvest a
+Read a notice from the Journal for 6.2.1855. Thoreau had harvested a
 butterfly cocoon from the forest and pinned it on a window sill in his
 room after a walk on 5.24.1855. He forgot about it until Sophia called
 to tell him there was a moth in his room. They watched it emerge from
