@@ -1,7 +1,7 @@
 September 6 2011
 Update
 
-Think of this as more an experiment in public writing using git. Instead
+This is an experiment in public writing using git. Instead
 of a blog or a website, I'm using Github, mostly without the nice bloggy
 add-ons that the service provides.
 

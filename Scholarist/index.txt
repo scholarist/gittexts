@@ -1,0 +1,27 @@
+#Scholarist
+
+###The Simplest Thing That Can Possibly Work
+
+_ _ _
+
+_Enhanced for [Lynx][Lynx]_
+
+[Lynx]: http://lynx.isc.org
+
+Scholarist@[Twitter][TW]  [LJ][LJ]
+
+_ _ _
+
+[TW]: http://www.twitter.com/scholarist
+[LJ]: http://scholarist.livejournal.com
+
+A collection of writings organized into a loose weblog format using
+homebrew tools and procedures. Mostly commentary on what I'm reading.  
+
+_ _ _ 
+
+_Links_
+
+August 30, 2011: [Baker Farm][1]
+
+[1]: 2011/thoreau.html

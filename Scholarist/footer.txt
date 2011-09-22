@@ -1,0 +1,6 @@
+</div>
+</div>
+<div id="footer"><p>Email KW at scholarist dot net</p></div>
+</div>
+</body>
+</html>
