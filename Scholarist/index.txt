@@ -8,20 +8,22 @@ _Enhanced for [Lynx][Lynx]_
 
 [Lynx]: http://lynx.isc.org
 
-Scholarist@[Twitter][TW]  [LJ][LJ]
+Scholarist@[Twitter][TW]  [LJ][LJ] [Panix][PNX]
 
-_ _ _
 
 [TW]: http://www.twitter.com/scholarist
 [LJ]: http://scholarist.livejournal.com
+[PNX]: http://www.panix.com/~scholarist
+_ _ _
 
 A collection of writings organized into a loose weblog format using
 homebrew tools and procedures. Mostly commentary on what I'm reading.  
-
 _ _ _ 
 
 _Links_
 
+September 22,2011: [The Web as Platform][2]  
 August 30, 2011: [Baker Farm][1]
 
 [1]: 2011/thoreau.html
+[2]: 2011/2011-09-22-web.html
