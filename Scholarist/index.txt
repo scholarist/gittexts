@@ -22,8 +22,13 @@ _ _ _
 
 _Links_
 
+September 29, 2011: [Writing][4]  
+September 27,2011: [Curation][3]  
 September 22,2011: [The Web as Platform][2]  
 August 30, 2011: [Baker Farm][1]
 
 [1]: 2011/thoreau.html
 [2]: 2011/2011-09-22-web.html
+[3]: 2011/curation.html
+[4]: 2011/2011-09-29-diary.html
+
