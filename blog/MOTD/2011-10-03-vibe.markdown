@@ -1,0 +1,21 @@
+[Vibe][1] is a secure and anonymous Twitter alternative
+prefered by the [Occupy Wallstreet protesters][2]:
+
+> Currently available in the Apple App Store, Vibe is similar to Twitter
+> in several ways. It encourages short messages shared with your network,
+> replies back and forth, and it’s made to be mobile.
+
+> However, it is also an anonymous network, with each message sent without
+> a username or identification.
+
+> Users send out a message on Vibe, and select whether to “whisper” it,
+> meaning to send it to only a small geographical area surrounding them,
+> or “shout” to the entire network.
+
+> It’s the geographical and anonymous nature of Vibe that Beta Beat says
+> is so attractive to protesters at the #OccupyWallstreet protests
+> happening right now in the heart of New York city.
+
+
+[1]: http://itunes.apple.com/us/app/vibe/id433067417?mt=8
+[2]: http://www.mediabistro.com/alltwitter/more-secure-anonymous-twitter-alternative-being-used-by-rioters_b14424:
