@@ -1,0 +1,24 @@
+
+The [Occupy Wallstreet][OW] protests are spreading; [Daily Kos][DK]
+lists over 200 events, including one in Madison, and [Occupy
+Together][OT] is serving as an internet clearing house.
+
+Many of the local events rely on Facebook to host their web presence.
+[Winer][DW], argues that the groups should rely instead on RSS, which
+comes free with every blog host out there--Tumblr, Wordpress, and
+LiveJournal are three good choices. Some people still don't pay much
+attention to the 'borg; and, after all, its good policy to diversify
+your news feeds by reposting the Facebook material elsewhere. As Dave
+says,:
+
+> Facebook is the equivalent of Wall Street in the tech world. So it's
+> important that you communicate not just with people inside Facebook, but
+> those outside as well.
+
+Kids, friends don't let friends use Facebook.
+
+
+[DK]: http://www.dailykos.com/story/2011/10/04/1022722/-Occupy-Wall-Street:-List-and-map-of-over-200-US-solidarity-events-and-Facebook%C2%A0pages
+[OW]: http://occupywallst.org/
+[OT]: http://www.occupytogether.org/
+[DW]: http://scripting.com/stories/2011/10/04/howAndWhyYourOccupySiteSho.html
